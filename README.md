@@ -14,4 +14,4 @@ The columns in this dataset are:
 
 This model is a neural network with four hidden layers created using the keras library. 
 This model classifies iris species into three classes.(Iris setosa, Iris Virginica and Iris Versicolor)
-This model reaches an accuracy of 100%
+This model reaches an accuracy of 100%.
